@@ -1,0 +1,6 @@
+git remote -v
+.venv/
+__pycache__/
+*.pyc
+data/*.xlsx
+data/*.csv
